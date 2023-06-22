@@ -1,0 +1,23 @@
+> summary( foot_ankle_p1_N100_final_results)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   9.00   13.00   14.00   13.77   15.00   18.00 
+
+> summary( hand_p1_N100_final_results)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   2.00    3.00    3.00    3.69    4.00   11.00 
+
+> summary( hip_p1_N100_final_results)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  23.00   31.00   33.50   34.33   37.25   54.00 
+
+> summary( hip_knee_p1_N100_final_results)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  27.00   30.00   31.50   31.64   33.00   39.00 
+
+> summary( knee_p1_N100_final_results)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  38.00   41.00   44.00   44.34   47.00   54.00 
+
+> summary( shoulder_p1_N100_final_results)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  11.00   12.00   14.00   14.33   16.00   19.00 
